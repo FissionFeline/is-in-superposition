@@ -3,7 +3,7 @@
 # is-in-superposition
 
 [![npm version](https://badge.fury.io/js/is-in-superposition.svg)](https://www.npmjs.com/package/is-in-superposition)
-[![License](https://img.shields.io/github/license/yourusername/is-in-superposition.svg)](https://github.com/yourusername/is-in-superposition/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/yourusername/is-in-superposition.svg)](https://github.com/FissionFeline/is-in-superposition/blob/main/LICENSE)
 
 ![is-in-superposition](superposition-image.png)
 
