@@ -16,13 +16,26 @@ npm install is-in-superposition
 ```js
 const isInSuperposition = require('is-in-superposition');
 
-// Check if an object is in superposition
-const result = isInSuperposition(obj);
+// Check if an value is in superposition
+const result = isInSuperposition(value);
 
 if (result) {
-  console.log('The object is in superposition.');
+  console.log('The value is in superposition.');
 } else {
-  console.log('The object is not in superposition.');
+  console.log('The value is not in superposition.');
 }
 ```
 
+## Example 
+
+```js
+const result = isInSuperposition("Test");
+
+if (result) {
+  console.log('The value is in superposition.');
+} else {
+  console.log('The value is not in superposition.');
+}
+
+// Will output the value is not in a superposition
+```
