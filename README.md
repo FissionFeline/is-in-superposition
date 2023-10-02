@@ -42,5 +42,6 @@ if (result) {
 
 ## Contributers 
 
-> Furious Feline / Fissionfeline 
+> Furious Feline / Fissionfeline
+
 > Isabel
