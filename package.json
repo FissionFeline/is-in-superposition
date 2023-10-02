@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "This NPM module allows you to test if a value is in a superposition",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "require": "./cjs/index.js"
+    }
   },
   "repository": {
     "type": "git",
