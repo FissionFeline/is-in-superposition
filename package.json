@@ -1,0 +1,19 @@
+{
+  "name": "is-in-superposition",
+  "version": "1.0.0",
+  "description": "This NPM module allows you to test if a value is in a superposition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FissionFeline/is-superposition.git"
+  },
+  "author": "Furious Feline & Isabel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FissionFeline/is-superposition/issues"
+  },
+  "homepage": "https://github.com/FissionFeline/is-superposition#readme"
+}
