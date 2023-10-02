@@ -39,3 +39,8 @@ if (result) {
 
 // Will output the value is not in a superposition
 ```
+
+## Contributers 
+
+> Furious Feline / Fissionfeline 
+> Isabel
